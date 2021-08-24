@@ -36,7 +36,7 @@ class App extends React.Component {
     // console.log(planets);
     return (
       <div className="App">
-        <h3>Using ComponentDidMount for initial data render</h3>
+        <h3>Planet List</h3>
         <hr />
         <table className="blueTable">
           <thead>
